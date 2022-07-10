@@ -2,7 +2,7 @@
   "name": "portfolio-website",
   "version": "1.0.0",
   "author": "Ashutosh Tripathi",
-  "repository": "https://github.com/SiddharthSsb11/Portfolio",
+  "repository": "",
   "private": true,
   "dependencies": {
     "@react-icons/all-files": "^4.1.0",
