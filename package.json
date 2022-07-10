@@ -4,6 +4,10 @@
   "version": "1.0.0",
   "author": "Ashutosh Tripathi",
   "repository": "",
+  "engines": {
+    "node": "16.13.2",
+    "npm": "8.1.2"
+  },
   "private": false,
   "dependencies": {
     "@react-icons/all-files": "^4.1.0",
