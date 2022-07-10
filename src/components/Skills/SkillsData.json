@@ -1,0 +1,65 @@
+{
+  "data": {
+    "1": {
+      "name": "HTML5, CSS3, SASS",
+      "percentage": "95%",
+      "left": "5%"
+    },
+    "2": {
+      "name": "JavaScript, TypeScript",
+      "percentage": "95%",
+      "left": "5%"
+    },
+    "3": {
+      "name": "ReactJS",
+      "percentage": "90%",
+      "left": "10%"
+    },
+    "4": {
+      "name": "Redux, Redux Toolkit",
+      "percentage": "70%",
+      "left": "30%"
+    },
+    "5": {
+      "name": "NodeJS, ExpressJS",
+      "percentage": "50%",
+      "left": "50%"
+    },
+    "6": {
+      "name": "MongoDB, Mongoose",
+      "percentage": "60%",
+      "left": "40%"
+    },
+    "7": {
+      "name": "Material-UI, Bootstrap",
+      "percentage": "80%",
+      "left": "20%"
+    },
+    "8": {
+      "name": "Chakra-UI, Styled-Components",
+      "percentage": "70%",
+      "left": "30%"
+    },
+    "9": {
+      "name": "Firebase, Heroku",
+      "percentage": "70%",
+      "left": "30%"
+    },
+    "10": {
+      "name": "Postman, Git",
+      "percentage": "85%",
+      "left": "15%"
+    },
+    "11": {
+      "name": "REST APIs",
+      "percentage": "70%",
+      "left": "30%"
+    },
+    "12": {
+      "name": "ChartJS",
+      "percentage": "75%",
+      "left": "25%"
+    }
+    
+  }
+}
