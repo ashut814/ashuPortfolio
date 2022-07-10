@@ -124,13 +124,5 @@ const Nav = () => {
   );
 };
 
-///* {<a
-              //href="https://twitter.com/Siddharth_SSB"
-              //target="_blank"
-              //rel="noreferrer"
-              //aria-label="Twitter"
-            //>
-              //<FaTwitter size="1.5rem"></FaTwitter>
-            //</a>}
 
 export default Nav;
