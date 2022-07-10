@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ashuPortfolio/static/css/main.b7d6f135.chunk.css",
+    "main.js": "/ashuPortfolio/static/js/main.80d9a6c4.chunk.js",
+    "main.js.map": "/ashuPortfolio/static/js/main.80d9a6c4.chunk.js.map",
+    "runtime-main.js": "/ashuPortfolio/static/js/runtime-main.52dd51e8.js",
+    "runtime-main.js.map": "/ashuPortfolio/static/js/runtime-main.52dd51e8.js.map",
+    "static/js/2.6c89cfee.chunk.js": "/ashuPortfolio/static/js/2.6c89cfee.chunk.js",
+    "static/js/2.6c89cfee.chunk.js.map": "/ashuPortfolio/static/js/2.6c89cfee.chunk.js.map",
+    "index.html": "/ashuPortfolio/index.html",
+    "static/css/main.b7d6f135.chunk.css.map": "/ashuPortfolio/static/css/main.b7d6f135.chunk.css.map",
+    "static/js/2.6c89cfee.chunk.js.LICENSE.txt": "/ashuPortfolio/static/js/2.6c89cfee.chunk.js.LICENSE.txt",
+    "static/media/AboutImage.2ae03dfa.png": "/ashuPortfolio/static/media/AboutImage.2ae03dfa.png",
+    "static/media/index.css": "/ashuPortfolio/static/media/Sora-Thin.3f131535.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52dd51e8.js",
+    "static/js/2.6c89cfee.chunk.js",
+    "static/css/main.b7d6f135.chunk.css",
+    "static/js/main.80d9a6c4.chunk.js"
+  ]
+}
